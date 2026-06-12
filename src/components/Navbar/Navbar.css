@@ -20,8 +20,9 @@
     align-items: center;
 }
 
-.li {
+li {
     color: white;
+    text-decoration: none;
    
 }
 
