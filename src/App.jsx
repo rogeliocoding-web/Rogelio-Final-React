@@ -1,5 +1,6 @@
 import react from "react";
-import bannerImg from "./assets/background_banner.jpg";
+
+import Home from "./pages/Home/Home.jsx";
 
 const App = () => {
   return (
